@@ -9,3 +9,6 @@
 <a href="https://github.com/kiccho1101/kaggle_m5_forecasting">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=kiccho1101&repo=kaggle_m5_forecasting" />
 </a>
+<a href="https://github.com/kiccho1101/kaggle-riiid">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=kiccho1101&repo=kaggle-riiid" />
+</a>
