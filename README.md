@@ -15,3 +15,6 @@
 <a href="https://github.com/kiccho1101/kaggle-riiid">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=kiccho1101&repo=kaggle-riiid" />
 </a>
+<a href="https://github.com/kiccho1101/atma-trainocate">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=kiccho1101&repo=atma-trainocate" />
+</a>
